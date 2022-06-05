@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kirah</h1>
-<h3 align="center">A passionate software engineer based in New Orleans</h3>
+<h3 align="center">A Software Engineer based in New Orleans</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirahcodes&label=Profile%20views&color=0e75b6&style=flat" alt="kirahcodes" /> </p>
 
