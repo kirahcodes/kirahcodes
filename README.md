@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirahcodes&label=Profile%20views&color=0e75b6&style=flat" alt="kirahcodes" /> </p>
 
-<p align="left"> <a href="https://twitter.com/kirahcodes" target="blank"><img src="https://img.shields.io/twitter/follow/kirahcodes?logo=twitter&style=for-the-badge" alt="kirahcodes" /></a> </p>
-
 - 🔭 I’m currently working on my personal project **Capsule**
 
 - 🌱 I’m currently learning **NodeJS, Express, TailwindCSS**
