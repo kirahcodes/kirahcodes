@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://codepen.io/kirahcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kirahcodes" height="30" width="40" /></a>
 <a href="https://twitter.com/kirahcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kirahcodes" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kirahcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kirahcodes" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zmelancon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kirahcodes" height="30" width="40" /></a>
 <a href="https://instagram.com/kirahcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kirahcodes" height="30" width="40" /></a>
 </p>
 
